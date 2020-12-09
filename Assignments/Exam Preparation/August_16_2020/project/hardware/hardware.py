@@ -10,16 +10,25 @@ class Hardware:
         self.software_components = []
 
     def install(self, software: Software):
-        memory_used = sum([s.memory_consumption for s in self.software_components])
-        capacity_used = sum([s.capacity_consumption for s in self.software_components])
-        current_memory = software.memory_consumption
-        current_capacity = software.capacity_consumption
+        current_capacity_consumption = software.capacity_consumption
+        current_memory_consumption = software.memory_consumption
 
-        if memory_used + current_memory > self.memory or capacity_used + current_capacity > self.capacity:
-            raise Exception('Software cannot be installed')
+        if current_capacity_consumption + self.used_capacity > self.capacity or \
+                current_memory_consumption + self.used_memory > self.memory:
+            raise Exception("Software cannot be installed")
 
         self.software_components.append(software)
 
     def uninstall(self, software: Software):
-        if software in self.software_components:
-            self.software_components.remove(software)
+        self.software_components.remove(software)
+
+    @property
+    def used_capacity(self):
+        return sum([x.capacity_consumption for x in self.software_components])
+
+    @property
+    def used_memory(self):
+        return sum([x.memory_consumption for x in self.software_components])
+
+    def software_components_names(self):
+        return None if len(self.software_components) == 0 else ', '.join([x.name for x in self.software_components])
