@@ -6,8 +6,8 @@ class Room:
         self.budget = budget
         self.members_count = members_count
         self.children = []
-        self.expenses = 0
         self.appliances = []
+        self.expenses = 0
 
     @property
     def expenses(self):
@@ -21,4 +21,3 @@ class Room:
 
     def calculate_expenses(self, *args):
         self.__expenses = sum([x.get_monthly_expense() for el in args for x in el])
-        # TODO: Check if it is cost or monthly cost
