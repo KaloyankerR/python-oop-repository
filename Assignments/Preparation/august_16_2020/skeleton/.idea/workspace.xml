@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f556ddc-fd80-4e97-a8de-634b68d43904" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="dc98ebba-fe74-48cd-a59d-4512ec154d61" />
+  <component name="ProjectId" id="1l0yP5CLKAog25rJC8AtCP63xKy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_hardware.TestHardware.test_uninstall_should_not_remove_the_software_if_it_is_not_in_the_software_components">
+    <configuration name="Unittests for test_hardware.TestHardware.test_correct_initialization" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hardware.TestHardware.test_correct_initialization&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_hardware.TestHardware.test_install_should_raise_error_if_capacity_or_memory_are_more_than_the_hardware_ones" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hardware.TestHardware.test_install_should_raise_error_if_capacity_or_memory_are_more_than_the_hardware_ones&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_hardware.TestHardware.test_uninstall_should_not_remove_the_software_if_it_is_not_in_the_software_components" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hardware.TestHardware.test_uninstall_should_not_remove_the_software_if_it_is_not_in_the_software_components&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_hardware.TestHardware.test_uninstall_should_remove_software_from_the_software_components" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hardware.TestHardware.test_uninstall_should_remove_software_from_the_software_components&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_hardware.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/skeleton/tests/test_hardware.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_hardware.TestHardware.test_uninstall_should_not_remove_the_software_if_it_is_not_in_the_software_components" />
+        <item itemvalue="Python tests.Unittests in test_hardware.py" />
+        <item itemvalue="Python tests.Unittests for test_hardware.TestHardware.test_uninstall_should_remove_software_from_the_software_components" />
+        <item itemvalue="Python tests.Unittests for test_hardware.TestHardware.test_correct_initialization" />
+        <item itemvalue="Python tests.Unittests for test_hardware.TestHardware.test_install_should_raise_error_if_capacity_or_memory_are_more_than_the_hardware_ones" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f556ddc-fd80-4e97-a8de-634b68d43904" name="Default Changelist" comment="" />
+      <created>1606748275858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606748275858</updated>
+      <workItem from="1606748276905" duration="2491000" />
+      <workItem from="1606849258609" duration="2697000" />
+      <workItem from="1606992638853" duration="2035000" />
+      <workItem from="1607000605878" duration="2613000" />
+      <workItem from="1607003252151" duration="4987000" />
+      <workItem from="1607067701668" duration="801000" />
+      <workItem from="1607069338580" duration="9486000" />
+      <workItem from="1607154664840" duration="6587000" />
+      <workItem from="1607324154049" duration="40000" />
+      <workItem from="1607704658266" duration="2837000" />
+      <workItem from="1607708337801" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1607161158558">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607161158558" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1607708544023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607708544023" />
+    <state width="1892" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607706438676" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1607708544022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607708544022" />
+    <state width="1892" height="287" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607706438676" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1607708544021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607708544021" />
+    <state width="1892" height="287" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607706438676" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1607708544023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607708544023" />
+    <state width="1892" height="287" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607706438676" />
+    <state width="1877" height="361" key="GridCell.Tab.1.bottom" timestamp="1607161259043">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607161259043" />
+    <state width="1877" height="361" key="GridCell.Tab.1.center" timestamp="1607161259043">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607161259043" />
+    <state width="1877" height="361" key="GridCell.Tab.1.left" timestamp="1607161259043">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607161259043" />
+    <state width="1877" height="361" key="GridCell.Tab.1.right" timestamp="1607161259043">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607161259043" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1606992882123">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606992882123" />
+    <state x="2723" y="305" key="refactoring.ChangeSignatureDialog" timestamp="1606850603415">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2723" y="305" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606850603415" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607704672372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607704672372" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_player_repository_TestPlayerRepository_test_remove_should_remove_player_from_the_players_list.coverage" NAME="Unittests for test_player_repository.TestPlayerRepository.test_remove_should_remove_player_from_the_players_list Coverage Results" MODIFIED="1607017595603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository.coverage" NAME="Unittests for test_card_repository.TestCardRepository Coverage Results" MODIFIED="1607016792719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_take_damage_raises_error_when_damage_points_are_less_than_zero.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_take_damage_raises_error_when_damage_points_are_less_than_zero Coverage Results" MODIFIED="1606993544429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_initialization_is_done_correctly.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_initialization_is_done_correctly Coverage Results" MODIFIED="1606993006823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_battlefield_TestBattleField_test_enemy_beginner_should_increase_his_attributes.coverage" NAME="Unittests for test_battlefield.TestBattleField.test_enemy_beginner_should_increase_his_attributes Coverage Results" MODIFIED="1607002059861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_count_should_return_the_length_of_the_cards_properly.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_count_should_return_the_length_of_the_cards_properly Coverage Results" MODIFIED="1607016859047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_hardware_TestHardware_test_install_should_add_software_to_the_software_components.coverage" NAME="Unittests for test_hardware.TestHardware.test_install_should_add_software_to_the_software_components Coverage Results" MODIFIED="1607705001568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_remove_should_raise_error_when_the_card_name_is_empty_str.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_remove_should_raise_error_when_the_card_name_is_empty_str Coverage Results" MODIFIED="1607016679746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_hardware_py.coverage" NAME="Unittests in test_hardware.py Coverage Results" MODIFIED="1607708365010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController_test_add_player_should_add_player_to_the_player_repository.coverage" NAME="Unittests for test_controller.TestController.test_add_player_should_add_player_to_the_player_repository Coverage Results" MODIFIED="1607018849467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_battlefield_TestBattleField_test_if_one_from_the_players_is_dead_should_raise_error.coverage" NAME="Unittests for test_battlefield.TestBattleField.test_if_one_from_the_players_is_dead_should_raise_error Coverage Results" MODIFIED="1607001040579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_is_dead_returns_false_if_health_is_positive.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_is_dead_returns_false_if_health_is_positive Coverage Results" MODIFIED="1606993399631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_player_repository_py.coverage" NAME="Unittests in test_player_repository.py Coverage Results" MODIFIED="1607017025252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_username_raises_error_when_trrying_to_set_it_to_empty_str.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_username_raises_error_when_trrying_to_set_it_to_empty_str Coverage Results" MODIFIED="1606993169221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_battlefield_TestBattleField_test_fight_should_decrease_the_health_of_both_players.coverage" NAME="Unittests for test_battlefield.TestBattleField.test_fight_should_decrease_the_health_of_both_players Coverage Results" MODIFIED="1607002860130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_trap_card_py.coverage" NAME="Unittests in test_trap_card.py Coverage Results" MODIFIED="1606994540809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_hardware_TestHardware_test_uninstall_should_not_remove_the_software_if_it_is_not_in_the_software_components.coverage" NAME="Unittests for test_hardware.TestHardware.test_uninstall_should_not_remove_the_software_if_it_is_not_in_the_software_components Coverage Results" MODIFIED="1607708419676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_battlefield_py.coverage" NAME="Unittests in test_battlefield.py Coverage Results" MODIFIED="1607003847406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_find_should_return_the_found_card.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_find_should_return_the_found_card Coverage Results" MODIFIED="1607016787849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_hardware_TestHardware_test_correct_initialization.coverage" NAME="Unittests for test_hardware.TestHardware.test_correct_initialization Coverage Results" MODIFIED="1607706181413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_hardware_TestHardware_test_uninstall_should_remove_software_from_the_software_components.coverage" NAME="Unittests for test_hardware.TestHardware.test_uninstall_should_remove_software_from_the_software_components Coverage Results" MODIFIED="1607708356404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_initialization_is_returns_correct_attributes.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_initialization_is_returns_correct_attributes Coverage Results" MODIFIED="1607015907897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_magic_card_py.coverage" NAME="Unittests in test_magic_card.py Coverage Results" MODIFIED="1606994455796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_advanced_py.coverage" NAME="Unittests in test_advanced.py Coverage Results" MODIFIED="1606993777746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController_test_initialization_should_return_correct_attributes.coverage" NAME="Unittests for test_controller.TestController.test_initialization_should_return_correct_attributes Coverage Results" MODIFIED="1607018727516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_is_dead_returns_true_if_health_is_not_positive.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_is_dead_returns_true_if_health_is_not_positive Coverage Results" MODIFIED="1606993444597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_player_repository_TestPlayerRepository_test_add_should_add_a_player_to_the_players_list.coverage" NAME="Unittests for test_player_repository.TestPlayerRepository.test_add_should_add_a_player_to_the_players_list Coverage Results" MODIFIED="1607017284620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_player_repository_TestPlayerRepository_test_count_should_return_the_length_of_the_players_correctly.coverage" NAME="Unittests for test_player_repository.TestPlayerRepository.test_count_should_return_the_length_of_the_players_correctly Coverage Results" MODIFIED="1607018043799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController_test_add_card_should_add_card_to_the_card_repository.coverage" NAME="Unittests for test_controller.TestController.test_add_card_should_add_card_to_the_card_repository Coverage Results" MODIFIED="1607019109651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$main.coverage" NAME="main Coverage Results" MODIFIED="1607161229432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1607019694717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_battlefield_TestBeginner_test_initialization_is_done_correctly.coverage" NAME="Unittests for test_battlefield.TestBeginner.test_initialization_is_done_correctly Coverage Results" MODIFIED="1606993821326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController.coverage" NAME="Unittests for test_controller.TestController Coverage Results" MODIFIED="1607019690045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_remove_should_remove_existing_card.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_remove_should_remove_existing_card Coverage Results" MODIFIED="1607016635426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_player_repository_TestPlayerRepository_test_remove_should_raise_error_when_there_is_no_name_for_card.coverage" NAME="Unittests for test_player_repository.TestPlayerRepository.test_remove_should_raise_error_when_there_is_no_name_for_card Coverage Results" MODIFIED="1607017766725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_username_raises_error_when_trying_to_set_it_to_empty_str.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_username_raises_error_when_trying_to_set_it_to_empty_str Coverage Results" MODIFIED="1606993197585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_controller_py.coverage" NAME="Unittests in test_controller.py Coverage Results" MODIFIED="1607019704177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_magic_card_TestMagicCard_test_initialization_is_done_correctly.coverage" NAME="Unittests for test_magic_card.TestMagicCard.test_initialization_is_done_correctly Coverage Results" MODIFIED="1606994102129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_add_should_add_a_card_to_the_cards.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_add_should_add_a_card_to_the_cards Coverage Results" MODIFIED="1607016099473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_player_repository_TestPlayerRepository_test_find_should_return_the_found_card.coverage" NAME="Unittests for test_player_repository.TestPlayerRepository.test_find_should_return_the_found_card Coverage Results" MODIFIED="1607017974301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_take_damage_decreases_health_when_damage_points_is_positive_number.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_take_damage_decreases_health_when_damage_points_is_positive_number Coverage Results" MODIFIED="1606993775233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_battlefield_TestBattleField_test_player_dies_in_fight.coverage" NAME="Unittests for test_battlefield.TestBattleField.test_player_dies_in_fight Coverage Results" MODIFIED="1607003879270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController_test_add_player_card_should_add_card_in_players_repository.coverage" NAME="Unittests for test_controller.TestController.test_add_player_card_should_add_card_in_players_repository Coverage Results" MODIFIED="1607019322191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController_test_fight_should_make_both_players_fight.coverage" NAME="Unittests for test_controller.TestController.test_fight_should_make_both_players_fight Coverage Results" MODIFIED="1607019489783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_card_repository_TestCardRepository_test_add_should_raise_error_card_already_in_cards.coverage" NAME="Unittests for test_card_repository.TestCardRepository.test_add_should_raise_error_card_already_in_cards Coverage Results" MODIFIED="1607016281620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$system.coverage" NAME="system Coverage Results" MODIFIED="1607090565680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_hardware_TestHardware_test_install_should_raise_error_if_capacity_or_memory_are_more_than_the_hardware_ones.coverage" NAME="Unittests for test_hardware.TestHardware.test_install_should_raise_error_if_capacity_or_memory_are_more_than_the_hardware_ones Coverage Results" MODIFIED="1607705141624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_advanced_TestAdvanced_test_health_raises_error_when_trying_to_set_it_below_zero.coverage" NAME="Unittests for test_advanced.TestAdvanced.test_health_raises_error_when_trying_to_set_it_below_zero Coverage Results" MODIFIED="1606993273444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_in_test_card_repository_py.coverage" NAME="Unittests in test_card_repository.py Coverage Results" MODIFIED="1607016682424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_battlefield_TestBattleField_test_attacker_beginner_should_increase_his_attributes.coverage" NAME="Unittests for test_battlefield.TestBattleField.test_attacker_beginner_should_increase_his_attributes Coverage Results" MODIFIED="1607001845631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_controller_TestController_test_report_should_return_correctly_the_result.coverage" NAME="Unittests for test_controller.TestController.test_report_should_return_correctly_the_result Coverage Results" MODIFIED="1607019652432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/skeleton$Unittests_for_test_player_repository_TestPlayerRepository_test_add_should_raise_error_when_player_adding_existing_player.coverage" NAME="Unittests for test_player_repository.TestPlayerRepository.test_add_should_raise_error_when_player_adding_existing_player Coverage Results" MODIFIED="1607017398364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
